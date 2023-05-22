@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="assets_manager.svg"
+   inkscape:export-filename="assets_manager.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="146"
+     inkscape:cy="587"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,297"
+       orientation="0,793.70079"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="210,297"
+       orientation="1122.5197,0"
+       id="guide11"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="210,0"
+       orientation="0,-793.70079"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1122.5197,0"
+       id="guide15"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="167.43274"
+       y="126.1458"
+       width="464.46111"
+       height="87.283933"
+       id="rect145" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1472">
+      <ellipse
+         style="fill:#808080;stroke-width:0.264583"
+         id="ellipse1474"
+         cx="68.810036"
+         cy="153.47971"
+         rx="29.44174"
+         ry="40.76474" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1472-2">
+      <ellipse
+         style="fill:#808080;stroke-width:0.264583"
+         id="ellipse1474-7"
+         cx="68.810036"
+         cy="153.47971"
+         rx="29.44174"
+         ry="40.76474" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1472-8">
+      <ellipse
+         style="fill:#808080;stroke-width:0.264583"
+         id="ellipse1474-1"
+         cx="68.810036"
+         cy="153.47971"
+         rx="29.44174"
+         ry="40.76474" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1472-1">
+      <ellipse
+         style="fill:#808080;stroke-width:0.264583"
+         id="ellipse1474-9"
+         cx="68.810036"
+         cy="153.47971"
+         rx="29.44174"
+         ry="40.76474" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1472-6">
+      <ellipse
+         style="fill:#808080;stroke-width:0.264583"
+         id="ellipse1474-8"
+         cx="68.810036"
+         cy="153.47971"
+         rx="29.44174"
+         ry="40.76474" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1472-14">
+      <ellipse
+         style="fill:#808080;stroke-width:0.264583"
+         id="ellipse1474-15"
+         cx="68.810036"
+         cy="153.47971"
+         rx="29.44174"
+         ry="40.76474" />
+    </clipPath>
+  </defs>
+  <rect
+     style="stroke:none;fill:#ffffff;stroke-width:1.765;stroke-dasharray:1.765, 5.295;stroke-dashoffset:0"
+     id="rect5553"
+     width="243.24496"
+     height="333.48602"
+     x="-16.267094"
+     y="-3.7335608"
+     ry="5.8982267"
+     transform="translate(1.9724243,-9.8021034)" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffdd55;stroke:none;stroke-width:1.765;stroke-dasharray:1.765, 5.295;stroke-dashoffset:0"
+       d="m 22.707155,283.00945 c -0.213808,-0.62799 -0.591042,-1.22251 -0.641427,-1.88399 -0.289196,-3.79672 5.225908,-10.34177 7.55286,-12.87378 4.080076,-4.43961 9.936485,-7.35263 15.506639,-9.44715 20.46229,-7.69433 37.514622,-8.12648 59.075953,-7.68605 23.67526,0.4836 47.82348,0.73273 71.13484,5.37887 6.03073,1.20197 25.39008,4.67787 25.51299,13.96593 0.0901,6.81146 -10.0584,17.46671 -14.75292,21.8022 -12.09402,11.16904 -31.7701,19.37363 -47.86693,22.59398 -9.91034,1.98269 -20.1315,1.37182 -30.16337,1.20137 -7.72939,-0.13131 -15.395999,-0.2195 -23.091567,-0.9966 -7.136675,-0.72068 -7.521794,-0.75428 -15.314207,-1.41979 -8.210807,-0.70127 -16.536427,-1.00843 -24.358386,-3.84987 -5.458891,-1.98302 -10.909072,-4.90069 -15.009526,-9.06489 -2.755493,-2.79834 -3.998357,-6.40667 -6.045509,-9.65192 -0.931858,-1.47722 -1.274759,-1.83769 -2.357267,-2.97614 -0.283993,-0.29866 -3.02659,-3.54605 -2.244996,-3.76793 0.265239,-0.0753 0.856156,0.44768 1.122509,0.24572 0.662954,-0.50266 1.293543,-1.04664 1.940314,-1.56996 z"
+       id="path4763" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.1978974,230.1)"
+       id="text143"
+       style="white-space:pre;shape-inside:url(#rect145);display:inline;fill:#1a1a1a"><tspan
+         x="167.43359"
+         y="182.85362"
+         id="tspan6086"><tspan
+           style="font-size:64px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal'"
+           id="tspan6084">Assets manager</tspan></tspan></text>
+    <g
+       id="g5172"
+       transform="translate(1.9724243,-9.8021034)"
+       style="display:inline;stroke:none">
+      <path
+         style="fill:#55ddff;stroke:none;stroke-width:1.765;stroke-dasharray:1.765, 5.295;stroke-dashoffset:0"
+         d="m 39.175937,42.025135 c 0.35813,-0.832771 0.620761,-1.713463 1.074389,-2.49831 3.232732,-5.593104 15.630501,-10.480143 21.247467,-12.614404 7.605824,-2.889962 14.676834,-4.065231 22.7067,-5.105829 10.133523,-1.313213 20.157717,-2.287856 30.387887,-2.361789 7.75692,-0.05606 15.37444,0.317451 23.09157,1.023895 8.32539,0.762125 17.12179,1.388913 24.31029,6.116078 7.58261,4.986341 15.21652,16.401283 17.54319,25.05133 1.60262,5.958181 1.75173,12.143848 2.42137,18.239022 1.76437,16.059415 1.71142,32.203242 0.73767,48.327912 -0.44532,7.37417 -1.00836,14.71843 -1.29889,22.10252 -0.72653,18.46596 -1.76102,36.85372 -6.28606,54.8672 -2.31197,9.20363 -6.67234,17.5967 -13.47009,24.27318 -11.33304,11.13089 -35.20002,16.09526 -50.59298,15.83626 -5.81424,-0.0978 -11.596758,-1.54026 -17.270575,-2.58021 -9.939337,-1.82177 -19.819689,-3.43696 -28.944641,-8.041 C 53.653823,219.02037 39.647761,206.37161 32.440905,196.22397 24.854026,185.54124 22.12317,172.49321 19.836743,159.85516 c -1.204399,-6.65721 -2.518417,-13.3111 -3.030759,-20.06837 -1.193271,-15.73802 0.236872,-31.53199 2.613829,-47.0856 0.809107,-5.294392 1.760767,-10.549983 2.694013,-15.822615 1.957146,-11.057453 2.877573,-19.171489 8.643304,-28.887533 1.069552,-1.802342 2.354822,-4.487897 3.992924,-5.897645 0.863758,-0.743352 1.819526,-1.402485 2.710045,-2.116053"
+         id="path4240" />
+      <g
+         id="g1404"
+         mask="none"
+         clip-path="url(#clipPath1472)"
+         transform="matrix(0.68130227,0,0,0.68130227,5.7672983,-5.8383231)"
+         style="stroke:none">
+        <rect
+           style="fill:#808080;stroke:none;stroke-width:0.243736"
+           id="rect476"
+           width="49.993797"
+           height="58.123047"
+           x="48.175915"
+           y="130.70427" />
+        <rect
+           style="fill:#ff6600;stroke:none;stroke-width:0.0999746"
+           id="rect476-1"
+           width="49.993797"
+           height="9.7788877"
+           x="48.085205"
+           y="121.1025"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:none;stroke-width:0.264583"
+           x="51.120861"
+           y="128.71568"
+           id="text532"><tspan
+             sodipodi:role="line"
+             id="tspan530"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:none;stroke-width:0.264583"
+             x="51.120861"
+             y="128.71568">asset</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.3507;display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+           x="51.31741"
+           y="139.77274"
+           id="text678"
+           transform="translate(1.0885479,0.60816701)"><tspan
+             x="51.31741"
+             y="139.77274"
+             id="tspan6090"><tspan
+               style="font-size:6.35px"
+               id="tspan6088">elements:
+</tspan></tspan><tspan
+             x="51.31741"
+             y="150.35607"
+             id="tspan6096"><tspan
+               style="font-size:6.35px"
+               id="tspan6092">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6094">material
+</tspan></tspan><tspan
+             x="51.31741"
+             y="160.93942"
+             id="tspan6102"><tspan
+               style="font-size:6.35px"
+               id="tspan6098">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6100">file
+</tspan></tspan><tspan
+             x="51.31741"
+             y="171.52276"
+             id="tspan6108"><tspan
+               style="font-size:6.35px"
+               id="tspan6104">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6106">camera
+</tspan></tspan><tspan
+             x="51.31741"
+             y="182.1061"
+             id="tspan6114"><tspan
+               style="font-size:6.35px"
+               id="tspan6110">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6112">geometry</tspan></tspan></text>
+        <ellipse
+           style="fill:#00d455;stroke:none;stroke-width:0.264583"
+           id="path1179"
+           cx="53.13213"
+           cy="159.86588"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#ffcc00;stroke:none;stroke-width:0.264583"
+           id="path1179-6"
+           cx="53.13213"
+           cy="149.34801"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#00ccff;stroke:none;stroke-width:0.264583"
+           id="path1179-6-0"
+           cx="53.13213"
+           cy="170.38373"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#ff5599;stroke:none;stroke-width:0.264583"
+           id="path1179-6-0-6"
+           cx="53.13213"
+           cy="180.9016"
+           rx="1.7462032"
+           ry="1.8968965" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.264583"
+         x="79.361725"
+         y="219.82823"
+         id="text1646"><tspan
+           sodipodi:role="line"
+           id="tspan1644"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.264583"
+           x="79.361725"
+           y="219.82823">Scene</tspan></text>
+      <g
+         id="g1404-1"
+         mask="none"
+         clip-path="url(#clipPath1472-8)"
+         transform="matrix(0.68130227,0,0,0.68130227,84.098168,62.772115)"
+         style="stroke:none">
+        <rect
+           style="fill:#808080;stroke:none;stroke-width:0.243736"
+           id="rect476-3"
+           width="49.993797"
+           height="58.123047"
+           x="48.175915"
+           y="130.70427" />
+        <rect
+           style="fill:#ff6600;stroke:none;stroke-width:0.0999746"
+           id="rect476-1-3"
+           width="49.993797"
+           height="9.7788877"
+           x="48.085205"
+           y="121.1025"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:none;stroke-width:0.264583"
+           x="51.120861"
+           y="128.71568"
+           id="text532-0"><tspan
+             sodipodi:role="line"
+             id="tspan530-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:none;stroke-width:0.264583"
+             x="51.120861"
+             y="128.71568">asset</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.3507;display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+           x="51.31741"
+           y="139.77274"
+           id="text678-2"
+           transform="translate(1.0885479,0.60816701)"><tspan
+             x="51.31741"
+             y="139.77274"
+             id="tspan6118"><tspan
+               style="font-size:6.35px"
+               id="tspan6116">elements:
+</tspan></tspan><tspan
+             x="51.31741"
+             y="150.35607"
+             id="tspan6124"><tspan
+               style="font-size:6.35px"
+               id="tspan6120">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6122">material
+</tspan></tspan><tspan
+             x="51.31741"
+             y="160.93942"
+             id="tspan6130"><tspan
+               style="font-size:6.35px"
+               id="tspan6126">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6128">file
+</tspan></tspan><tspan
+             x="51.31741"
+             y="171.52276"
+             id="tspan6136"><tspan
+               style="font-size:6.35px"
+               id="tspan6132">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6134">camera
+</tspan></tspan><tspan
+             x="51.31741"
+             y="182.1061"
+             id="tspan6142"><tspan
+               style="font-size:6.35px"
+               id="tspan6138">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6140">geometry</tspan></tspan></text>
+        <ellipse
+           style="fill:#00d455;stroke:none;stroke-width:0.264583"
+           id="path1179-9"
+           cx="53.13213"
+           cy="159.86588"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#ffcc00;stroke:none;stroke-width:0.264583"
+           id="path1179-6-7"
+           cx="53.13213"
+           cy="149.34801"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#00ccff;stroke:none;stroke-width:0.264583"
+           id="path1179-6-0-8"
+           cx="53.13213"
+           cy="170.38373"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#ff5599;stroke:none;stroke-width:0.264583"
+           id="path1179-6-0-6-4"
+           cx="53.13213"
+           cy="180.9016"
+           rx="1.7462032"
+           ry="1.8968965" />
+      </g>
+      <g
+         id="g1404-5"
+         mask="none"
+         clip-path="url(#clipPath1472-1)"
+         transform="matrix(0.68130227,0,0,0.68130227,104.48518,-4.9236279)"
+         style="stroke:none">
+        <rect
+           style="fill:#808080;stroke:none;stroke-width:0.243736"
+           id="rect476-38"
+           width="49.993797"
+           height="58.123047"
+           x="48.175915"
+           y="130.70427" />
+        <rect
+           style="fill:#ff6600;stroke:none;stroke-width:0.0999746"
+           id="rect476-1-2"
+           width="49.993797"
+           height="9.7788877"
+           x="48.085205"
+           y="121.1025"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:none;stroke-width:0.264583"
+           x="51.120861"
+           y="128.71568"
+           id="text532-4"><tspan
+             sodipodi:role="line"
+             id="tspan530-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:none;stroke-width:0.264583"
+             x="51.120861"
+             y="128.71568">asset</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.3507;display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+           x="51.31741"
+           y="139.77274"
+           id="text678-0"
+           transform="translate(1.0885479,0.60816701)"><tspan
+             x="51.31741"
+             y="139.77274"
+             id="tspan6146"><tspan
+               style="font-size:6.35px"
+               id="tspan6144">elements:
+</tspan></tspan><tspan
+             x="51.31741"
+             y="150.35607"
+             id="tspan6152"><tspan
+               style="font-size:6.35px"
+               id="tspan6148">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6150">material
+</tspan></tspan><tspan
+             x="51.31741"
+             y="160.93942"
+             id="tspan6158"><tspan
+               style="font-size:6.35px"
+               id="tspan6154">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6156">file
+</tspan></tspan><tspan
+             x="51.31741"
+             y="171.52276"
+             id="tspan6164"><tspan
+               style="font-size:6.35px"
+               id="tspan6160">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6162">camera
+</tspan></tspan><tspan
+             x="51.31741"
+             y="182.1061"
+             id="tspan6170"><tspan
+               style="font-size:6.35px"
+               id="tspan6166">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6168">geometry</tspan></tspan></text>
+        <ellipse
+           style="fill:#00d455;stroke:none;stroke-width:0.264583"
+           id="path1179-8"
+           cx="53.13213"
+           cy="159.86588"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#ffcc00;stroke:none;stroke-width:0.264583"
+           id="path1179-6-00"
+           cx="53.13213"
+           cy="149.34801"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#00ccff;stroke:none;stroke-width:0.264583"
+           id="path1179-6-0-7"
+           cx="53.13213"
+           cy="170.38373"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#ff5599;stroke:none;stroke-width:0.264583"
+           id="path1179-6-0-6-9"
+           cx="53.13213"
+           cy="180.9016"
+           rx="1.7462032"
+           ry="1.8968965" />
+      </g>
+      <g
+         id="g1404-6"
+         mask="none"
+         clip-path="url(#clipPath1472-6)"
+         transform="matrix(0.68130227,0,0,0.68130227,21.387604,59.468318)"
+         style="stroke:none">
+        <rect
+           style="fill:#808080;stroke:none;stroke-width:0.243736"
+           id="rect476-4"
+           width="49.993797"
+           height="58.123047"
+           x="48.175915"
+           y="130.70427" />
+        <rect
+           style="fill:#ff6600;stroke:none;stroke-width:0.0999746"
+           id="rect476-1-8"
+           width="49.993797"
+           height="9.7788877"
+           x="48.085205"
+           y="121.1025"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:none;stroke-width:0.264583"
+           x="51.120861"
+           y="128.71568"
+           id="text532-47"><tspan
+             sodipodi:role="line"
+             id="tspan530-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:none;stroke-width:0.264583"
+             x="51.120861"
+             y="128.71568">asset</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.3507;display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+           x="51.31741"
+           y="139.77274"
+           id="text678-9"
+           transform="translate(1.0885479,0.60816701)"><tspan
+             x="51.31741"
+             y="139.77274"
+             id="tspan6174"><tspan
+               style="font-size:6.35px"
+               id="tspan6172">elements:
+</tspan></tspan><tspan
+             x="51.31741"
+             y="150.35607"
+             id="tspan6180"><tspan
+               style="font-size:6.35px"
+               id="tspan6176">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6178">material
+</tspan></tspan><tspan
+             x="51.31741"
+             y="160.93942"
+             id="tspan6186"><tspan
+               style="font-size:6.35px"
+               id="tspan6182">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6184">file
+</tspan></tspan><tspan
+             x="51.31741"
+             y="171.52276"
+             id="tspan6192"><tspan
+               style="font-size:6.35px"
+               id="tspan6188">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6190">camera
+</tspan></tspan><tspan
+             x="51.31741"
+             y="182.1061"
+             id="tspan6198"><tspan
+               style="font-size:6.35px"
+               id="tspan6194">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6196">geometry</tspan></tspan></text>
+        <ellipse
+           style="fill:#00d455;stroke:none;stroke-width:0.264583"
+           id="path1179-1"
+           cx="53.13213"
+           cy="159.86588"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#ffcc00;stroke:none;stroke-width:0.264583"
+           id="path1179-6-2"
+           cx="53.13213"
+           cy="149.34801"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#00ccff;stroke:none;stroke-width:0.264583"
+           id="path1179-6-0-5"
+           cx="53.13213"
+           cy="170.38373"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#ff5599;stroke:none;stroke-width:0.264583"
+           id="path1179-6-0-6-3"
+           cx="53.13213"
+           cy="180.9016"
+           rx="1.7462032"
+           ry="1.8968965" />
+      </g>
+      <g
+         id="g1404-52"
+         mask="none"
+         clip-path="url(#clipPath1472-14)"
+         transform="matrix(0.68130227,0,0,0.68130227,55.372839,-44.554065)"
+         style="stroke:none">
+        <rect
+           style="fill:#808080;stroke:none;stroke-width:0.243736"
+           id="rect476-0"
+           width="49.993797"
+           height="58.123047"
+           x="48.175915"
+           y="130.70427" />
+        <rect
+           style="fill:#ff6600;stroke:none;stroke-width:0.0999746"
+           id="rect476-1-82"
+           width="49.993797"
+           height="9.7788877"
+           x="48.085205"
+           y="121.1025"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:none;stroke-width:0.264583"
+           x="51.120861"
+           y="128.71568"
+           id="text532-43"><tspan
+             sodipodi:role="line"
+             id="tspan530-56"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:none;stroke-width:0.264583"
+             x="51.120861"
+             y="128.71568">asset</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:46.3507;display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+           x="51.31741"
+           y="139.77274"
+           id="text678-3"
+           transform="translate(1.0885479,0.60816701)"><tspan
+             x="51.31741"
+             y="139.77274"
+             id="tspan6202"><tspan
+               style="font-size:6.35px"
+               id="tspan6200">elements:
+</tspan></tspan><tspan
+             x="51.31741"
+             y="150.35607"
+             id="tspan6208"><tspan
+               style="font-size:6.35px"
+               id="tspan6204">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6206">material
+</tspan></tspan><tspan
+             x="51.31741"
+             y="160.93942"
+             id="tspan6214"><tspan
+               style="font-size:6.35px"
+               id="tspan6210">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6212">file
+</tspan></tspan><tspan
+             x="51.31741"
+             y="171.52276"
+             id="tspan6220"><tspan
+               style="font-size:6.35px"
+               id="tspan6216">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6218">camera
+</tspan></tspan><tspan
+             x="51.31741"
+             y="182.1061"
+             id="tspan6226"><tspan
+               style="font-size:6.35px"
+               id="tspan6222">  </tspan><tspan
+               style="font-size:6.35px"
+               id="tspan6224">geometry</tspan></tspan></text>
+        <ellipse
+           style="fill:#00d455;stroke:none;stroke-width:0.264583"
+           id="path1179-7"
+           cx="53.13213"
+           cy="159.86588"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#ffcc00;stroke:none;stroke-width:0.264583"
+           id="path1179-6-72"
+           cx="53.13213"
+           cy="149.34801"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#00ccff;stroke:none;stroke-width:0.264583"
+           id="path1179-6-0-63"
+           cx="53.13213"
+           cy="170.38373"
+           rx="1.7462032"
+           ry="1.8968965" />
+        <ellipse
+           style="fill:#ff5599;stroke:none;stroke-width:0.264583"
+           id="path1179-6-0-6-34"
+           cx="53.13213"
+           cy="180.9016"
+           rx="1.7462032"
+           ry="1.8968965" />
+      </g>
+    </g>
+  </g>
+</svg>

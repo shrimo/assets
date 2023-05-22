@@ -2,6 +2,9 @@
 
 """
 A system for describing and managing assets for computer graphics.
+
+Each scene (shot or sequence) consists of assets that contain elements. 
+Elements are geometry, materials, textures, image files, data files, etc.
 """
 
 import uuid
@@ -64,15 +67,17 @@ if __name__ == '__main__':
 
     asset01 = Asset('Asset 01')
     asset02 = Asset('Asset 02')
+    asset03 = Asset('Asset 03')
 
     image_file_01 = ExternalFile('flower', '/Image/rose-flower.jpeg', 'jpeg', 'Image file')
     image_file_02 = ExternalFile('flower01', '/Image/rose-flower.jpeg', 'jpeg', 'Image file01')
 
     asset01.append_element('image_file', image_file_01)
-    asset02.append_element('image_file01', image_file_01)
+    asset02.append_element('image_file01', image_file_02)
 
     scene01.append_asset('Asset_01', asset01)
     scene01.append_asset('Asset_02', asset02)
+    scene01.append_asset('Asset_03', asset03)
 
     scene01.show_assets()
 
@@ -80,9 +85,9 @@ if __name__ == '__main__':
     ifile = test_asset01.element_by_name('image_file')
     print(ifile.name, ifile.file_path)
 
-    # test_asset02 = scene01.asset_by_name('Asset_02')
-    # ifile2 = test_asset02.element_by_name('image_file')
-    # print(ifile2.name, ifile2.file_path)
+    test_asset02 = scene01.asset_by_name('Asset_02')
+    ifile2 = test_asset02.element_by_name('image_file01')
+    print(ifile2.name, ifile2.file_path)
 
 
 
